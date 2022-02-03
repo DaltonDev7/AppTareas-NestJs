@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nhec8zjy4iY2TIxShKIWW5UB1dIQY9491ErZabd8Ws/zE6AnPaFyXORGECKmNmXsC4qRzVFO3HyAS0KrQwyA3A==",
+  "dgSpecHash": "bhwWb++kqlkkBXoOTTY79kyxrjRo0SDAUakZKSy2gjUjWxYkgUDTD5Pcv7e/o6bOAIHNC9X+8nCMmO8VkVcTgA==",
   "success": true,
-  "projectFilePath": "C:\\Dalton\\asp.net core graphQl\\appTareas\\appTareas.csproj",
+  "projectFilePath": "C:\\Dalton\\asp .net core practica\\appTareas asp .net5\\appTareas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dalton\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dalton\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.10\\microsoft.aspnetcore.authentication.jwtbearer.5.0.10.nupkg.sha512",

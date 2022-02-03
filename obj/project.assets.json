@@ -5710,21 +5710,19 @@
   },
   "packageFolders": {
     "C:\\Users\\Dalton\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dalton\\asp.net core graphQl\\appTareas\\appTareas.csproj",
+      "projectUniqueName": "C:\\Dalton\\asp .net core practica\\appTareas asp .net5\\appTareas.csproj",
       "projectName": "appTareas",
-      "projectPath": "C:\\Dalton\\asp.net core graphQl\\appTareas\\appTareas.csproj",
+      "projectPath": "C:\\Dalton\\asp .net core practica\\appTareas asp .net5\\appTareas.csproj",
       "packagesPath": "C:\\Users\\Dalton\\.nuget\\packages\\",
-      "outputPath": "C:\\Dalton\\asp.net core graphQl\\appTareas\\obj\\",
+      "outputPath": "C:\\Dalton\\asp .net core practica\\appTareas asp .net5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\Dalton\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5799,7 +5797,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
       }
     }
   }
